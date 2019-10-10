@@ -2,7 +2,7 @@
 
 ## Base Domain
 
-www.bimin.co
+api.bimin.co
 
 ## API Endpoint ($HOST)
 

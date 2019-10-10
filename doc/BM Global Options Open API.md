@@ -1,6 +1,6 @@
 # Base URL
 
-The base url of BM Global open API is: https://www.bimin.co/openapi
+The base url of BM Global open API is: https://api.bimin.co/openapi
 
 # Public Options Endpoints
 

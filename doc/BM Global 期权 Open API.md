@@ -1,6 +1,6 @@
 # BM Global API URL
 
-BM Global Open API的地址为: https://www.bimin.co/openapi
+BM Global Open API的地址为: https://api.bimin.co/openapi
 
 # 期权公共端点
 
